@@ -4,8 +4,8 @@ menu:
   Archives: archives
 
 widgets:
+- profile
 - search
-- category
 - tag
 
 excerpt_link: Read More
